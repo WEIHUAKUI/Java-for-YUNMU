@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class StrCompare {
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
 String str1,str2,strt;
 int res;
 Scanner sc=new Scanner(System.in);
